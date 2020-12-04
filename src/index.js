@@ -1,20 +1,21 @@
 //Challenge 1
-let now = new Date();
+let currentTime = new Date();
+console.log(currentTime);
 //Challenge 2
 
-now.getMilliseconds();
+console.log(currentTime.getMilliseconds());
 
 //Challenge 3
 
-now.getDay();
+console.log(currentTime.getDay());
 
 //Challenge 4
 
-now.getFullYear();
+console.log(currentTime.getFullYear());
 
 //Challenge 5
 
-now.getMonth();
+console.log(currentTime.getMonth());
 
 //Challenge 6
 
